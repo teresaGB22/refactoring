@@ -29,3 +29,5 @@ capturas de pantalla.
 //Ejercicio3 Electrodomesticos
 // ejercicio4 Vehiculos
 // ejercicio 5 personas
+
+Cambio de nombres de variables en el ejercicio Empleados así como añadir métodos en las clases empleado y gerente.
